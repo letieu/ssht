@@ -1,5 +1,8 @@
 # ssht
+
 tool  for manage SSH, no more care about password, host, port, username
+
+<image src="https://github.com/letieu/ssht/blob/main/out.gif" />
 
 ## INSTALL
 ```bash
